@@ -7,3 +7,4 @@
 [Twitter](https://twitter.com/trystalnet) |
 [Chat](https://gitter.im/trystal/trystal)
 
+July 18: Added perms
