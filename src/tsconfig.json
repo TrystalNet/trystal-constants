@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "removeComments": true,
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "strictNullChecks": true,
+    "declaration": false,
+    "outDir": ".."
+  },
+  "files": [
+    "./index.ts"
+  ]
+}
