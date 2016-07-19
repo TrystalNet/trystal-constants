@@ -1,8 +1,8 @@
 {
   "name": "@trystal/constants",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Constants used in Trystal application",
-  "homepage": "https://github.com/TrystalNet/trist-text#readme",
+  "homepage": "https://github.com/TrystalNet/trystal-constants#readme",
   "author": "Terence O'Neill <terry.oneill@trystal.net>",
   "contributors": [],
   "keywords": [
@@ -13,10 +13,10 @@
   "typings": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TrystalNet/draftjs.git"
+    "url": "git+https://github.com/TrystalNet/trystal-constants"
   },
   "bugs": {
-    "url": "https://github.com/TrystalNet/draftjs/issues"
+    "url": "https://github.com/TrystalNet/trystal-constants"
   },
   "license": "ISC",
   "devDependencies": {
