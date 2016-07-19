@@ -1,10 +1,9 @@
 # Constants
 
-[Site](https://trystal.net/) |
-[Docs](https://trystal.net/) |
-[Wiki](https://github.com/trystal/trist-text/wiki "Changelog, Roadmap, etc.") |
-[Code of Conduct](https://jquery.org/conduct/) |
-[Twitter](https://twitter.com/trystalnet) |
-[Chat](https://gitter.im/trystal/trystal)
+This module contains constants that are shared the versions and history of Trystal, 
+Linelo, and other related applications. 
 
-July 18: Added perms
+[trystal.net](https://trystal.net/) |
+
+July 18: Added perms  
+July 19: Added formats (moved from interfaces)
