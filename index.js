@@ -2,6 +2,7 @@
 exports.FGS = [null, null, 'blue', 'green', 'red', 'grey'];
 exports.BGS = [null, 'yellow', 'powderblue', 'palegreen', 'mistyrose', 'lightgrey'];
 exports.FACES = ['serif', 'sans-serif', 'monospace'];
+exports.SIZES = [null, 10, 13, 18, 24, 32];
 (function (Formats) {
     Formats[Formats["UNKNOWN"] = 0] = "UNKNOWN";
     Formats[Formats["FMT2014"] = 20140] = "FMT2014";
