@@ -15,3 +15,19 @@ var Formats = exports.Formats;
     Perms[Perms["ro"] = 2] = "ro";
 })(exports.Perms || (exports.Perms = {}));
 var Perms = exports.Perms;
+(function (ForegroundColors) {
+    ForegroundColors[ForegroundColors["black"] = 0] = "black";
+    ForegroundColors[ForegroundColors["blue"] = 2] = "blue";
+    ForegroundColors[ForegroundColors["green"] = 3] = "green";
+    ForegroundColors[ForegroundColors["red"] = 4] = "red";
+    ForegroundColors[ForegroundColors["gray"] = 5] = "gray";
+})(exports.ForegroundColors || (exports.ForegroundColors = {}));
+var ForegroundColors = exports.ForegroundColors;
+(function (BackgroundColors) {
+    BackgroundColors[BackgroundColors["yellow"] = 1] = "yellow";
+    BackgroundColors[BackgroundColors["powderblue"] = 2] = "powderblue";
+    BackgroundColors[BackgroundColors["palegreen"] = 3] = "palegreen";
+    BackgroundColors[BackgroundColors["mistyrose"] = 4] = "mistyrose";
+    BackgroundColors[BackgroundColors["lightgray"] = 5] = "lightgray";
+})(exports.BackgroundColors || (exports.BackgroundColors = {}));
+var BackgroundColors = exports.BackgroundColors;
