@@ -10,4 +10,6 @@ export enum Perms { None=0, rw=1, ro=2 }
 export enum ForegroundColors { black=0, blue=2, green, red, gray }
 export enum BackgroundColors { yellow=1, powderblue, palegreen, mistyrose, lightgray }
 
-export enum condimunts { Mustard, Ketchup }
+export {BigMAC,condimunts} from './more/stuff'
+
+
