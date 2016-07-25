@@ -10,5 +10,9 @@
   },
   "files": [
     "./index.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "index.js"
   ]
 }
