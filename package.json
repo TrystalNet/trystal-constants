@@ -1,6 +1,6 @@
 {
   "name": "@trystal/constants",
-  "version": "1.4.5",
+  "version": "1.4.7",
   "description": "Constants used in Trystal application",
   "homepage": "https://github.com/TrystalNet/trystal-constants#readme",
   "author": "Terence O'Neill <terry.oneill@trystal.net>",
@@ -9,7 +9,7 @@
     "trystal",
     "linelo"
   ],
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TrystalNet/trystal-constants"
