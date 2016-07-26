@@ -10,6 +10,10 @@
     "linelo"
   ],
   "main": "dist/index.js",
+  "typings": "dist/index",
+  "files": [
+    "dist/"
+    ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TrystalNet/trystal-constants"

@@ -1,15 +1,16 @@
 {
   "compilerOptions": {
     "target": "es6",
+    "module":"commonjs",
     "removeComments": true,
     "noImplicitAny": true,
     "suppressImplicitAnyIndexErrors": true,
     "strictNullChecks": true,
-    "declaration": false,
-    "outDir": "dist"
+    "declaration": true,
+    "outDir": "dist/"
   },
   "files": [
-    "./index.ts"
+    "./src/index.ts"
   ],
   "exclude": [
     "node_modules",
